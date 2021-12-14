@@ -1,0 +1,8 @@
+E:\C#\ProjetoInicall\PrimeiroProjeto\bin\Debug\PrimeiroProjeto.exe.config
+E:\C#\ProjetoInicall\PrimeiroProjeto\bin\Debug\PrimeiroProjeto.exe
+E:\C#\ProjetoInicall\PrimeiroProjeto\bin\Debug\PrimeiroProjeto.pdb
+E:\C#\ProjetoInicall\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.csproj.AssemblyReference.cache
+E:\C#\ProjetoInicall\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.csproj.SuggestedBindingRedirects.cache
+E:\C#\ProjetoInicall\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+E:\C#\ProjetoInicall\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.exe
+E:\C#\ProjetoInicall\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.pdb
